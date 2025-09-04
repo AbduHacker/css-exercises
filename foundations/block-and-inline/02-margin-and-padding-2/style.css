@@ -10,8 +10,7 @@ body {
   padding: 8px;
 }
 .title,
-.content,
-.button-container {
+.content {
   margin-bottom: 8px;
 }
 
